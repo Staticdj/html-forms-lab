@@ -4,7 +4,9 @@ form * {
   margin: 1em;
 }
 
-#checkbox {
+#checkbox  {
   display:inline;
-
+  left: -35%;
+  margin: auto;
+  position: absolute;
 }
